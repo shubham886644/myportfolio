@@ -1333,7 +1333,6 @@ this is css for ok button in popup
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-
 #popup-close:hover {
   background-color: #218838;
 }
